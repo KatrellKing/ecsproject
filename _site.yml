@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home Page"
+      href: index.html
+    - text: "Hobbies"
+      href: hobbies.html
+    - text: "Secret Talents"
+      href: secret_talents.html
